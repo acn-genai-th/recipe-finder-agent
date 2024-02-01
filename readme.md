@@ -1,4 +1,4 @@
-# demo-structure-app
+# recipe-finder-agent
  This readme shows the step how to config before run application
 
 ### Prerequisite 
